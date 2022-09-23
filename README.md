@@ -4,10 +4,10 @@ Que és?
 siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboración de páginas web. 
 Para que me sirve?
 
-Que origen se creo?
-
-Que fue esa pagina web?
-
-En que año salio?
+Quien lo creo? 
 
 Historia HTML
+
+Como surgio?
+
+Si hay un antes y un despues
