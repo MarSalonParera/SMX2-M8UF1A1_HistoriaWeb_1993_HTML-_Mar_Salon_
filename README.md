@@ -5,9 +5,9 @@ siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de m
 Para que me sirve?
 
 Quien lo creo? 
-
+Tim Berners-Lee, trabajador del CERN. 
 Historia HTML
 
 Como surgio?
-
+Propuso un nuevo sistema. 
 Si hay un antes y un despues
