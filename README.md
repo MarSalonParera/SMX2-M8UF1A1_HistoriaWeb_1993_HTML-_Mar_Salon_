@@ -3,12 +3,7 @@
 Que és?
 siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboración de páginas web. 
 
-Quien lo creo? 
-Tim Berners-Lee, trabajador del CERN. 
-
 Historia HTML
-
-Como surgio?
-Propuso un nuevo sistema. 
+Lo creo Tim Berners-Lee, trabajador del CERN. Tim Berners-Lee propuso un nuevo sistema de "hipertexto" para compartir documentos.
 
 Si hay un antes y un despues
