@@ -9,3 +9,4 @@ Historia HTML
 Lo creo Tim Berners-Lee, trabajador del CERN. Tim Berners-Lee propuso un nuevo sistema de "hipertexto" para compartir documentos.
 
 ![imagen](Actividad 1/FOTO 1.png)
+
